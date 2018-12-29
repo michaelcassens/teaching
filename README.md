@@ -1,4 +1,4 @@
-# Michael Cassens | Teaching Overview
+# Michael Cassens
 
 Assistant Professor of Media Arts
 
