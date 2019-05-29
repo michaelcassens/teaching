@@ -16,7 +16,7 @@ Office Hours
 * Creative Coding 1 (MART 120) WWW and MW 12:00-1:00 PM (Live Session)
 * Creative Coding 2 (MART 220) TR 10:00 am - 11:20 am
 * Web Server Technologies (MART 391-01) TR 1:00 pm - 2:20 pm
-* * Game Engines and Design (MART 391-02) TR 11:00 am - 12:20 pm
+* Game Engines and Design (MART 391-02) TR 11:00 am - 12:20 pm
 
 <!--* Web Technologies (MART 441) online - synchronous lecture MW 12-1 PM
 -->
