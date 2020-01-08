@@ -4,22 +4,21 @@ Assistant Professor of Media Arts
 
 University of Montana, School of Media Arts
 
-Office
-McGill Hall Rm: 230
+# Office
 
-Office Hours
-* Mondays and Wednesdays: 1:00pm - 2:00pm
-* Tuesdays: 10:00am - 11:00am
+* McGill Hall Rm: 230
+
+# Office Hours
+ 
+* Mondays, Tuesdays, and Wednesdays: 1:00pm - 2:00pm
 
 # Courses
 
-* Creative Coding 1 (MART 120) WWW and MW 12:00-1:00 PM (Live Session)
-* Creative Coding 2 (MART 220) TR 10:00 am - 11:20 am
-* Web Server Technologies (MART 391-01) TR 1:00 pm - 2:20 pm
-* Game Engines and Design (MART 391-02) TR 11:00 am - 12:20 pm
+* Creative Coding 2 (MART 220) MW 10:00 am - 11:20 am
+* Web Technologies (MART 441) Distance Learning
+* Mobile Games (MART 391-01) MW 2:00 am - 3:20 pm
 
-<!--* Web Technologies (MART 441) online - synchronous lecture MW 12-1 PM
--->
+
 # Areas of Interest
 
 * Gaming / Game Development
@@ -30,6 +29,6 @@ Office Hours
 
 # Teaching Goals
 
-* Help students find and achieve their artistic goals
+* Help students find and achieve their artistic and programmatic goals
 * Teach problem solving and logical reasoning
 * Help students learn how to collaborate with others in different disciplines and departments
