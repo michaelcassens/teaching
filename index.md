@@ -10,13 +10,16 @@ University of Montana, School of Media Arts
 
 # Office Hours
  
-* Mondays, Tuesdays, and Wednesdays: 1:00pm - 2:00pm
+* Mondays and Wednesdays: 11:00 am - 12:00 pm
+* Tuesdays and Thursdays: 10:00 am - 11:00 am
+* Make an Appointment with me - https://calendly.com/michael-cassens/120-meeting
 
 # Courses
 
-* Creative Coding 2 (MART 220) MW 10:00 am - 11:20 am
-* Web Technologies (MART 441) Distance Learning
-* Mobile Games (MART 391-01) MW 2:00 am - 3:20 pm
+* Creative Coding 1 (MART 120) Distance Learning
+* Introduction to Augmented and Virtual Reality (MART 391) TR 1:00 pm - 2:20 pm
+* Game Engines (MART 460) MW 1:00 pm - 2:20 pm
+* Web Server Technologies (MART 461) MW 11:00 am - 12:20 pm
 
 
 # Areas of Interest
