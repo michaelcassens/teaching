@@ -9,17 +9,21 @@ University of Montana, School of Media Arts
 * McGill Hall Rm: 230
 
 # Office Hours
- 
-* Mondays and Wednesdays: 11:00 am - 12:00 pm
-* Tuesdays and Thursdays: 10:00 am - 11:00 am
-* Make an Appointment with me - https://calendly.com/michael-cassens/120-meeting
+
+<!--* Mondays and Wednesdays: 11:00 am - 12:00 pm
+* Tuesdays and Thursdays: 10:00 am - 11:00 am-->
+* Make an Appointment with me - https://calendly.com/michael-cassens/meetings
 
 # Courses
 
 * Creative Coding 1 (MART 120) Distance Learning
-* Introduction to Augmented and Virtual Reality (MART 391) TR 1:00 pm - 2:20 pm
-* Game Engines (MART 460) MW 1:00 pm - 2:20 pm
-* Web Server Technologies (MART 461) MW 11:00 am - 12:20 pm
+* Creative Coding 2 (MART 220)
+* Introduction to Web Design (MART 341)
+* Introduction to Augmented and Virtual Reality (MART 391)
+* Web Technologies (MART 441)
+* Game Engines (MART 460)
+* Web Server Technologies (MART 461)
+* Mobile Game Programming (MART 462)
 
 
 # Areas of Interest
@@ -29,6 +33,7 @@ University of Montana, School of Media Arts
 * Mobile Application Development
 * Augment Reality and Virtual Reality
 * Introductory Programming and Teaching
+* Esports
 
 # Teaching Goals
 
