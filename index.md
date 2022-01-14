@@ -1,8 +1,8 @@
 # Michael Cassens | Teaching Overview
 
-Assistant Professor of Media Arts
+Associate Professor of Media Arts
 
-University of Montana, School of Media Arts
+University of Montana, School of Visual and Media Arts
 
 # Office
 
@@ -10,8 +10,6 @@ University of Montana, School of Media Arts
 
 # Office Hours
 
-<!--* Mondays and Wednesdays: 11:00 am - 12:00 pm
-* Tuesdays and Thursdays: 10:00 am - 11:00 am-->
 * Make an Appointment with me - https://calendly.com/michael-cassens/meetings
 
 # Courses
@@ -31,7 +29,7 @@ University of Montana, School of Media Arts
 * Gaming / Game Development
 * Web Technologies
 * Mobile Application Development
-* Augment Reality and Virtual Reality
+* Augmented Reality and Virtual Reality
 * Introductory Programming and Teaching
 * Esports
 
