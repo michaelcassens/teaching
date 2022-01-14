@@ -10,6 +10,7 @@ University of Montana, School of Visual and Media Arts
 
 # Office Hours
 
+* Mondays-Thursday: 10:00am - 11:00am
 * Make an Appointment with me - https://calendly.com/michael-cassens/meetings
 
 # Courses
