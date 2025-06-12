@@ -10,7 +10,7 @@ University of Montana, School of Visual and Media Arts
 
 # Office Hours
 
-* Mondays-Thursday: 10:00am - 11:00am
+* Tuesday or Thursday: 10:00am - 11:00am
 * Make an Appointment with me - https://calendly.com/michael-cassens/meetings
 
 # Courses
@@ -18,12 +18,15 @@ University of Montana, School of Visual and Media Arts
 * Creative Coding 1 (MART 120) Distance Learning
 * Creative Coding 2 (MART 220)
 * Introduction to Web Design (MART 341)
-* Introduction to Augmented and Virtual Reality (MART 391)
+* Fundamentals of the Unity Game Engine (MART 460)
+* Fundamentals of the Unreal Game Engine (MART 465)
 * Web Technologies (MART 441)
-* Game Engines (MART 460)
-* Web Server Technologies (MART 461)
+* Multiplayer Games (MART 461)
 * Mobile Game Programming (MART 462)
-
+* Creatively Exploring Artificial Intelligence (MART 464)
+* Esports Leadership (MART 371)
+* Graduate Pedagogy (MART 591)
+* Graduate Game Seminar (MART 594)
 
 # Areas of Interest
 
