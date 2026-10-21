@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Michael Cassens · Fall 2026 Schedule</title>
+
+  <!-- Google Fonts (free alternatives) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Piazzolla:ital,wght@0,500;0,700;1,600&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="main.css" />
+</head>
+<body>
+  <!-- Site Header -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="brand">
+        <div class="brand-mark" aria-hidden="true"></div>
+        <div class="brand-text">
+          <span class="brand-line1">University of Montana</span>
+          <span class="brand-line2">School Schedule</span>
+        </div>
+      </div>
+      <nav class="site-nav" aria-label="Primary"></nav>
+    </div>
+  </header>
+
+  <main class="container content">
+    <h1>Michael Cassens — Fall 2026</h1>
+
+    <section class="card">
+      <h2>Class Schedule</h2>
+      <div class="grid table-like">
+        <div class="row header">
+          <div>Course</div>
+          <div>Time</div>
+          <div>Location</div>
+        </div>
+        <div class="row">
+          <div>Fundamentals of Unity (MART 460)</div>
+          <div>Fully Online</div>
+          <div>Online</div>
+        </div>
+        <div class="row">
+          <div>Creatively Exploring AI (MART 464)</div>
+          <div>Fully Online</div>
+          <div>Online</div>
+        </div>
+        <div class="row">
+          <div>Graduate Seminar</div>
+          <div>T 2:30 pm – 3:30 pm</div>
+          <div>TBA/Online</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>Connect With Me</h2>
+      <div class="grid table-like">
+        <div class="row">
+          <div>Office Hours</div>
+          <div>M / W 10:00 am – 11:00 am · By Appt</div>
+          <div>Online / McGill 230</div>
+        </div>
+        <div class="row">
+          <div>Email</div>
+          <div>michael.cassens@umontana.edu</div>
+          <div>&nbsp;</div>
+        </div>
+        <div class="row">
+          <div>Phone</div>
+          <div>(415) 787-0577</div>
+          <div>&nbsp;</div>
+        </div>
+        <div class="row">
+          <div>Schedule a Meeting</div>
+          <div colspan="2">
+            <img src="frame.png" alt="Scheduling QR / Link" class="frame-img">
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <p>&copy; <span id="year"></span> University of Montana · Missoula, MT</p>
+      <p class="small">Unofficial page for class scheduling purposes.</p>
+    </div>
+  </footer>
+
+  <script>
+    // set year
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
